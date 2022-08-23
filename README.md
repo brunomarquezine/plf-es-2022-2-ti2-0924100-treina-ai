@@ -1,17 +1,19 @@
-# Nome do projeto
+# Treina Aí
 
 Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bruno Castanheira Marquezine
+* Daniel Bezerra Alves
+* Lucas de Carvalho Barbosa
+* Marcelo Aguilar Araujo D'Almeida
+* Rodrigo Diniz Carvalho
+* Otávio Julio Mendes
 
 ## Professor
 
-* Nome completo do professor
+* Hugo Bastos de Paula
 
 ## Instruções de utilização
 
