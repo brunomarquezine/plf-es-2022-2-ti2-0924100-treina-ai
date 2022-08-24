@@ -14,5 +14,8 @@ Treina aí é uma solução inovadora para otimizar o processo de aprendizado de
 ## Professor
 
 * Hugo Bastos de Paula
+* Felipe Augusto Lima Reis
+* Cristiano Geraldo Teixeira Silva
+Cristiano Geraldo Teixeira Silva
 
 
