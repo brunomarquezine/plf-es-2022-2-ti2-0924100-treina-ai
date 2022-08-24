@@ -1,6 +1,6 @@
 # Informações do Projeto
 
-`TREINA MAIS` 
+`TREINA AI` 
 
 `Plataforma para treinamento de novos colaboradores em organizações empresariais`  
 
