@@ -1,6 +1,6 @@
 # Informações do Projeto
 
-`TREINA AI` 
+`TREINA AÍ` 
 
 `Plataforma para treinamento de novos colaboradores em organizações empresariais`  
 
@@ -40,7 +40,7 @@ Toda empresa tem foco no seu crescimento e destaque no hall de empreendimentos d
 
 É de senso comum que o mercado busca colaboradores de qualidade e que qualquer novo empregado precisa passar por todo um processo de treinamento até que fique de acordo com o esperado da empresa, um profissional independente!
 
-O Treina Mais surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
+O Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
 
 
 ## Problema
@@ -58,7 +58,7 @@ O presente trabalho tem como foco conectar o estagiário com as necessidades da 
 
 Isso será possível com a disponibilização de tutoriais em uma plataforma de treinamento independente de forma que a empresa não precisará que colaboradores com custo/hora mais elevados despendam seu tempo para ensinar tarefas iniciais aos novos colaboradores.
 
-Por fim, a acessibilidade da Treina Mais é inovadora, tendo como foco o auxílio nos primeiros passos do novo colaborador dentro do ambiente empresarial.
+Por fim, a acessibilidade da Treina Aí é inovadora, tendo como foco o auxílio nos primeiros passos do novo colaborador dentro do ambiente empresarial.
 
 Como objetivos específicos temos:
 
@@ -73,7 +73,7 @@ Como objetivos específicos temos:
 
 O projeto consiste em um novo modo de organizar e facilitar o aprendizado de novos colaboradores através de treinamento em processos a partir do momento em que ocorre um novo ingresso na organização. Dessa forma, quando uma empresa contrata um novo profissional, não é necessário demandar tempo de terceiros já que o processo será todo automatizado e independente em relação ao aprendizado. 
 
-A ideia inovadora da Treina Mais, surgiu pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
+A ideia inovadora da Treina Aí, surgiu pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
 
 
 ## Instruções de utilização
