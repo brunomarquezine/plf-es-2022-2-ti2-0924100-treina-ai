@@ -29,7 +29,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_Treina aí é uma solução inovadora para otimizar o processo de aprendizado de novos colaboradores no ambiente empresarial de forma dinâmica e eficiênte._
+_Treina aí é uma solução inovadora, uma plataforma para otimizar o processo de aprendizado de novos colaboradores no ambiente empresarial de forma dinâmica e eficiênte._
 
 ---
 
