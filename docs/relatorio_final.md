@@ -1,18 +1,22 @@
-# TITULO DO PROJETO
+# Treina Aí
 
+* **Bruno Castanheira Marquezine**
 
-**Nome completo do Aluno 1, email do aluno 1**
+* **Daniel Bezerra Alves**
 
-**Nome completo do Aluno 2, email do aluno 2**
+* **Lucas de Carvalho Barbosa**
 
-**Nome completo do Aluno 3, email do aluno 3**
+* **Marcelo Aguilar Araujo D'Almeida**
+
+* **Rodrigo Diniz Carvalho**
+
+* **Otávio Julio Mendes**
 
 ---
 
-Professores:
+Professor:
 
-** Prof. NOme do Prof 1 **
-** Prof. NOme do Prof 2 **
+**Hugo Bastos de Paula**
 
 ---
 
@@ -22,48 +26,81 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+_Treina aí é uma solução inovadora para otimizar o processo de aprendizado de novos colaboradores no ambiente empresarial de forma dinâmica e eficiênte._
 
 ---
 
+# Introdução
 
-## 1. Introdução
+## Contextualização
 
-A introdução deve apresentar de dois ou quatro parágrafos de contextualização do trabalho. 
+Toda empresa tem foco no seu crescimento e destaque no hall de empreendimentos de sua determinada área. Não importa qual seguimento a empresa esteja inserida, toda organização carece de profissionais qualificados.
 
-    1.1 Contextualização
+É de senso comum que o mercado busca colaboradores de qualidade e que qualquer novo empregado precisa passar por todo um processo de treinamento até que fique de acordo com o esperado da empresa, um profissional independente!
 
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
-
-    1.2 Problema
-
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal.
-
-    1.3 Objetivo geral
-
-O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.).
-
-        1.3.1 Objetivos específicos
-
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
-    1.4 Justificativas
-
-Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho.
+O Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
 
 
-## 2. Participantes do processo
+## Problema
 
-Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários.
+A busca por profissionais capacitados no mercado é de grande demanda no meio organizacional, muitas vezes a empresa busca profissionais que já possuem conhecimento prévio para não ter que passar por todo processo de treinamento do novo colaborador já que é algo que leva bastante tempo, paciência e dedicação do Trainee (Profissional normalmente responsável pelo treinamento de estagiários ou novos contratados).
+
+Se analisarmos a situação como um todo, além do tempo que leva para o estagiário se tornar apto e independente para exercer seu trabalho, podemos identificar um outro problema na visão gerencial que é o custo da hora com o tempo gasto que o Trainee leva para ensinar os novos colaboradores. 
+
+Se levarmos em consideração quantas horas de treinamento o profissional já capacitado despende para fazer com que o novo colaborador saiba agir de maneira independente e eficaz, podemos afirmar que torna-se um custo alto para a empresa contratar empregados sem experiência e isso acaba desmotivando o empregador a contratar e também dificultando a busca de quem pretende pleitear alguma vaga de estágio.
+
+
+## Objetivos
+
+O presente trabalho tem como foco conectar o estagiário com as necessidades da empresa sem a influência de terceiros. 
+
+Isso será possível com a disponibilização de tutoriais em uma plataforma de treinamento independente de forma que a empresa não precisará que colaboradores com custo/hora mais elevados despendam seu tempo para ensinar tarefas iniciais aos novos colaboradores.
+
+Por fim, a acessibilidade da Treina Aí é inovadora, tendo como foco o auxílio nos primeiros passos do novo colaborador dentro do ambiente empresarial.
+
+Como objetivos específicos temos:
+
+• Cadastros de tutoriais, de maneira simples e objetiva, podendo ser através de texto ou vídeo.
+
+• Cadastro de usuários.
+
+• Página para consulta de tutoriais já cadastrados.
+
+
+## Justificativa
+
+O projeto consiste em um novo modo de organizar e facilitar o aprendizado de novos colaboradores através de treinamento em processos a partir do momento em que ocorre um novo ingresso na organização. Dessa forma, quando uma empresa contrata um novo profissional, não é necessário demandar tempo de terceiros já que o processo será todo automatizado e independente em relação ao aprendizado. 
+
+A ideia inovadora da Treina Aí, surgiu pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
+
+# Participantes do processo
+
+**Administrador:** O administrador do software terá as tarefas de:
+
+*	Cadastrar os usuários que utilizarão a plataforma 
+
+*	Disponibilizar os materiais que serão usados
+
+*	Certificar que os usuários estão assistindo as aulas 
+
+*	Oferecer suporte para os usuários 
+
+*	Aplicar testes para verificar o desenvolvimento dos usuários 
+
+*	Aprovar ou reprovar os usuários 
+
+**Usuário/Aprendiz:** Os usuários terão as seguintes tarefas:
+
+*	Logar na plataforma indicada
+
+*	Assistir ao conteúdo disponível
+
+*	Confirmar que o conteúdo foi consumido 
+
+*	Realizar os testes disponibilizados pelo administrador 
+
+*	Solicitar suporte ao administrador quando necessário 
+
 
 ## 3. Modelagem do processo de negócio
 
