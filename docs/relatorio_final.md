@@ -17,6 +17,8 @@
 Professor:
 
 **Hugo Bastos de Paula**
+**Felipe Augusto Lima Reis**
+**Cristiano Geraldo Teixeira Silva**
 
 ---
 
