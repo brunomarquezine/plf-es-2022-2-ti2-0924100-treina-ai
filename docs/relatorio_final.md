@@ -109,7 +109,7 @@ A ideia inovadora da Treina Aí, surgiu pela necessidade de economizar tempo e d
 
 ## 3.1. Análise da situação atual
 
-Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propoe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional.
+Quando um novo colaborador ingressa em uma organização, os demais colaboradores realizam capacitações, normalmente, através do "Learn by doing", ou seja, realizam as rotinas operacionais e "ensinam em quanto fazem", não possuem uma metodologia de ensino, além de não conseguirem medir o aprendizado do novo colaborador. Os controle de testes e tutoriais, se realizados, são através de planilhas. Os tutoriais, treinamentos e testes são armazenados de maneira desorganizadas, e com versionamentos desatualizados.
 
 ## 3.2. Descrição Geral da proposta
 
