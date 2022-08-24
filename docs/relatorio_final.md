@@ -41,7 +41,7 @@ Toda empresa tem foco no seu crescimento e destaque no hall de empreendimentos d
 
 É de senso comum que o mercado busca colaboradores de qualidade e que qualquer novo empregado precisa passar por todo um processo de treinamento até que fique de acordo com o esperado da empresa, um profissional independente!
 
-O Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
+A Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
 
 
 ## Problema
