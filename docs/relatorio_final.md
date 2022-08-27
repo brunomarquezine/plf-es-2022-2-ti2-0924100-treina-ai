@@ -109,7 +109,7 @@ A ideia inovadora da Treina Aí, surgiu pela necessidade de economizar tempo e d
 
 ## 3.1. Análise da situação atual
 
-Quando um novo colaborador ingressa em uma organização, os demais colaboradores realizam capacitações, normalmente, através do "Learn by doing", ou seja, realizam as rotinas operacionais e "ensinam em quanto fazem", portanto não possuem uma metodologia de ensino, além de não conseguirem medir o aprendizado do novo colaborador. Os controle de testes e tutoriais, se realizados, são através de planilhas. Os tutoriais, treinamentos e testes são armazenados de maneira desorganizadas, e com versionamentos confusos, muitas vezes desatualizados.
+Quando um novo colaborador ingressa em uma organização, os demais colaboradores realizam capacitações, normalmente, através do "Learn by doing", ou seja, realizam as rotinas operacionais e "ensinam enquanto fazem", portanto não possuem uma metodologia de ensino, além de não conseguirem medir o aprendizado do novo colaborador. Os controle de testes e tutoriais, se realizados, são através de planilhas. Os tutoriais, treinamentos e testes são armazenados de maneira desorganizadas, e com versionamentos confusos, muitas vezes desatualizados.
 
 ## 3.2. Descrição Geral da proposta
 
