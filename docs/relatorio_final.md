@@ -50,7 +50,7 @@ A busca por profissionais capacitados no mercado é de grande demanda no meio or
 
 Se analisarmos a situação como um todo, além do tempo que leva para o estagiário se tornar apto e independente para exercer seu trabalho, podemos identificar um outro problema na visão gerencial que é o custo da hora com o tempo gasto que o Trainee leva para ensinar os novos colaboradores. 
 
-Se levarmos em consideração quantas horas de treinamento o profissional já capacitado despende para fazer com que o novo colaborador saiba agir de maneira independente e eficaz, podemos afirmar que torna-se um custo alto para a empresa contratar empregados sem experiência e isso acaba desmotivando o empregador a contratar e também dificultando a busca de quem pretende pleitear alguma vaga de estágio.
+Se levarmos em consideração quantas horas de treinamento o profissional já capacitado despende para fazer com que o novo colaborador saiba agir de maneira independente e eficaz, podemos afirmar que torna-se um custo alto para a empresa contratar empregados sem experiência e isso acaba não só desmotivando o empregador a contratar mas como também, dificultando a busca de quem pretende pleitear alguma vaga de estágio.
 
 
 ## Objetivos
