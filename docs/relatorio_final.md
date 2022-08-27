@@ -130,13 +130,13 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ### 3.3.1 Processo 1 - Fluxo Geral
 
-![Processo 1 - Fluxo Geral](imagens/Processo%201%20-%20Fluxo%20Geral.jpeg)
+![Processo 1 - Fluxo Geral](imagens/fluxograma1.png)
 
 ### 3.3.2 Processo 2 – NOME DO PROCESSO
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/call_process.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/fluxograma2.png)
 
 ## 4. Projeto da Solução
 
@@ -144,7 +144,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – NOME DO PROCESSO
+#### Processo 1 – FLUXOGRAMA ADMINISTRADOR
 
 **Nome da atividade 1**
 
@@ -162,7 +162,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 2 – NOME DO PROCESSO
+#### Processo 2 – FLUXOGRAMA USUÁRIO
 
 **Nome da atividade 1**
 
