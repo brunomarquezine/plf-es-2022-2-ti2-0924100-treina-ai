@@ -113,7 +113,18 @@ Quando um novo colaborador ingressa em uma organização, os demais colaboradore
 
 ## 3.2. Descrição Geral da proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A ideia do trabalho surgiu a partir de uma observancia dos padrões de capacitaçaõ profissional no meio organizacional. Resumindo de forma genérica a situação, é notado que a partir do ingresso de algum novo colaborador, normalmente um terceiro é contactado para auxilia-lo no aprendizado. Esse terceiro na maioria dos casos é um profissional já qualificado e normalmente contendo mais tempo de casa logo, mais experiência. 
+
+Contudo podemos afirmar também que quanto mais experiênte o profissional, maior o custo de sua hora trabalhada e devido a isso a empresa tem um custo indireto para capacitar novos profissionais.
+
+Para conseguir sintetizar qual o custo que a empresa tem com este processo, precisamos levantar alguns pontos:
+* Primeiramente precisamos calcular o custo hora do treinee (normalmente são os profissionais responsáveis pelo treinamento de novos colaboradores); 
+* Feito isso estimamos quantas aulas em média um estagiário/novo colaborador precisa até o ponto de tornar-se apto ou independente;
+* Após estimar o custo hora do treinee e quantas aulas é necessário para capacitação profissional conseguimos ter alguma noção do tempo total de horas utilizadas para que o estagiário/novo colaborador tenha um aprendizado eficiente e conseguir alguma desenvoltura.
+
+A partir do momento em que levantamos todas essas informações, se multiplicarmos o custo hora treinee pelo número de horas necessárias para a capacitação de um novo profissional, podemos estimar o custo que a empresa obtém apenas para realizar algo que é rotineiro no meio empresarial que é a capacitação de um novo integrante sem experiência.
+
+Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento contendo dois tipos de acessos (Administrador e Aprendiz). Enquanto o usuário administrador pode cadastrar tutoriais e novos usuários, o usuário aprendiz pode visualizar os materiais disponíveis e usufruir de toda aquela informação, poupando tempo de profissionais mais experientes e economizando dinheiro para empresa simplesmente pelo fato de adquirirem independencia e autonomia com a aplicação oferecida.
 
 ## 3.3. Modelagem dos Processos
 
