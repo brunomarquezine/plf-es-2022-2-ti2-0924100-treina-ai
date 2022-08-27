@@ -9,7 +9,7 @@ Treina aí é uma solução inovadora para otimizar o processo de aprendizado de
 * Lucas de Carvalho Barbosa
 * Marcelo Aguilar Araujo D'Almeida
 * Rodrigo Diniz Carvalho
-* Otávio Julio Mendes
+* Otávio Júlio Rosa Mendes
 
 ## Professor
 
