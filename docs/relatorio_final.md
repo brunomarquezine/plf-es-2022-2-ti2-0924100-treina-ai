@@ -135,8 +135,6 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ### 3.3.2 Processo 2 – Fluxo Usuário
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
 ![fluxograma2](https://user-images.githubusercontent.com/102169915/187095848-a5104a8d-f21e-4f9f-8faf-bda19ad3e18a.png)
 
 
