@@ -128,15 +128,17 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 - Fluxo Geral
+### 3.3.1 Processo 1 - Fluxo Administrador
 
-![Processo 1 - Fluxo Geral](imagens/Processo%201%20-%20Fluxo%20Geral.jpeg)
+![fluxograma1](https://user-images.githubusercontent.com/102169915/187095845-c9be284c-eb3d-4e81-a3e1-b9125c571206.png)
 
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+
+### 3.3.2 Processo 2 – Fluxo Usuário
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/call_process.png "Modelo BPMN do Processo 2.")
+![fluxograma2](https://user-images.githubusercontent.com/102169915/187095848-a5104a8d-f21e-4f9f-8faf-bda19ad3e18a.png)
+
 
 
 ## 4. Projeto da Solução
@@ -147,37 +149,39 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 1 – FLUXOGRAMA ADMINISTRADOR
 
-**Nome da atividade 1**
+**Cadastro de Materiais e de Usuários**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-| ***Exemplo:***  |    |     |
+| Upload video-aulas | Arquivo | Máximo 20 minutos |  |
 | login | Caixa de Texto | formato de e-mail |  |
-| senha | Caixa de Texto | mínimo de 8 caracteres |   |
+| senha | Caixa de Texto | mínimo de 7 caracteres |   |
 
-**Nome da atividade 2**
+**Atribuição da Trilha de Aprendizado ao usuário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Registro Aluno | Área de texto, Imagem, Arquivo, Link|  |  |
+
 
 #### Processo 2 – FLUXOGRAMA USUÁRIO
 
-**Nome da atividade 1**
+**Realização do Login na plataforma**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| login | Caixa de Texto | formato de e-mail |  |
+| senha | Caixa de Texto | mínimo de 7 caracteres |   |
+
+**Cumprir trilha de aprendizado**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Aulas |Área de texto, Caixa de texto,Arquivo,  |  |  |
 
-**Nome da atividade 2**
+**Realização do testes**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Testes |Área de texto, Caixa de texto,Arquivo, Múltipla escolha  |  |  |
+
 
 ### 4.2. Tecnologias
 
