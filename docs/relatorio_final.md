@@ -10,7 +10,7 @@
 
 * **Rodrigo Diniz Carvalho**
 
-* **Otávio Julio Mendes**
+* **Otávio Júlio Rosa Mendes**
 
 ---
 
