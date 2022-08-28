@@ -178,13 +178,13 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aulas |Área de texto, Caixa de texto,Arquivo,  |  |  |
+| Aulas |Área de texto, Caixa de texto,Arquivo. |Remover aulas  |  |
 
 **Realização do testes**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Testes |Área de texto, Caixa de texto,Arquivo, Múltipla escolha  |  |  |
+| Testes |Área de texto, Caixa de texto,Arquivo, Múltipla escolha  |Marcar mais de uma alternativa |  |
 
 
 ### 4.2. Tecnologias
