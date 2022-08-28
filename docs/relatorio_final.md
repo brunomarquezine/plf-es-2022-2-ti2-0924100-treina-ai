@@ -150,13 +150,17 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 **Cadastro de Materiais e de Usuários**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
 | Upload video-aulas | Arquivo | Máximo 20 minutos |  |
+| --- | --- | --- | --- |
 | login | Caixa de Texto | formato de e-mail |  |
+| --- | --- | --- | --- |
 | senha | Caixa de Texto | mínimo de 7 caracteres |   |
 
 **Atribuição da Trilha de Aprendizado ao usuário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
 | Registro Aluno | Área de texto, Imagem, Arquivo, Link|  |  |
 
 
@@ -165,7 +169,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 **Realização do Login na plataforma**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
 | login | Caixa de Texto | formato de e-mail |  |
+| --- | --- | --- | --- |
 | senha | Caixa de Texto | mínimo de 7 caracteres |   |
 
 **Cumprir trilha de aprendizado**
