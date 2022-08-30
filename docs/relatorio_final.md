@@ -129,11 +129,13 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 ## 3.3. Modelagem dos Processos
 
 ### 3.3.1 Processo 1 - Fluxo Administrador
+Processo do administrador que fará o registro do estagiário e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
 ![fluxograma1](https://user-images.githubusercontent.com/102169915/187095845-c9be284c-eb3d-4e81-a3e1-b9125c571206.png)
 
 
 ### 3.3.2 Processo 2 – Fluxo Usuário
+Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina aí!. Nele o usuário/estagiário tem que fazer login na plataforma e seguir a trilha que o admin preparou. Ao final, o contratado terá que realizar um teste para provar se está apto a exercer o cargo.
 
 ![fluxograma2](https://user-images.githubusercontent.com/102169915/187095848-a5104a8d-f21e-4f9f-8faf-bda19ad3e18a.png)
 
