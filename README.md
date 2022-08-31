@@ -11,7 +11,7 @@ Treina aí é uma solução inovadora para otimizar o processo de aprendizado de
 * Rodrigo Diniz Carvalho
 * Otávio Júlio Rosa Mendes
 
-## Professor
+## Professores
 
 * Hugo Bastos de Paula
 * Felipe Augusto Lima Reis
