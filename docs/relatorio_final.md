@@ -132,7 +132,8 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 ### 3.3.1 Processo 1 - Cadastro de novo usuário
 Processo do administrador que fará o registro do estagiário e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
-![BPMN1](https://user-images.githubusercontent.com/102169915/189498581-73531861-2cca-4890-8863-27b3c02ce9cf.png)
+![BPMN 2 0 Example (4)](https://user-images.githubusercontent.com/102169915/189498860-f1b6aca4-3203-49cb-bfef-ba42b8f187fc.png)
+
 
 
 
@@ -140,7 +141,7 @@ Processo do administrador que fará o registro do estagiário e colocar os mater
 ### 3.3.2 Processo 2 – Login 
 Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina aí!. Nele o usuário/estagiário tem que fazer login na plataforma e seguir a trilha que o admin preparou. Ao final, o contratado terá que realizar um teste para provar se está apto a exercer o cargo.
 
-![BPMN2](https://user-images.githubusercontent.com/102169915/189498736-98d2c07f-849e-43d4-8741-9d606f27dba2.png)
+![Blank diagram](https://user-images.githubusercontent.com/102169915/189498890-a0f8b33f-e9e7-4826-8c68-ef428a170b7f.png)
 
 
 
