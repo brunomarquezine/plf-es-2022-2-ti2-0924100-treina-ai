@@ -145,6 +145,10 @@ Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina a�
 ![Blank diagram](https://user-images.githubusercontent.com/102169915/189498890-a0f8b33f-e9e7-4826-8c68-ef428a170b7f.png)
 
 
+### 3.3.6 Processo 6 - Visualização de Tutoriais
+Processo para o usuário aprendiz acessar a plataforma e visualizar os tutorias disponibilizados nos módulos desbloquedos. 
+
+![Diagrama em branco (7)](https://user-images.githubusercontent.com/81266506/189499899-52f92f74-73fc-4d67-9041-a0a19b0fec58.png)
 
 
 ## 4. Projeto da Solução
