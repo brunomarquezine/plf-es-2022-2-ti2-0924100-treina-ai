@@ -42,7 +42,13 @@ Toda empresa tem foco no seu crescimento e destaque no hall de empreendimentos d
 
 É de senso comum que o mercado busca colaboradores de qualidade e que qualquer novo empregado precisa passar por todo um processo de treinamento até que fique de acordo com o esperado da empresa, um profissional independente!
 
-A Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa e mantendo a qualidade do aprendizado afim que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização.
+Hoje no Brasil, aproximadamente uma a cada quatro pessoas poderia trabalhar de forma remota, de acordo com o Ipea (Instituto de PEsquisa Econômica Aplicada). Isso equivale a 20,4 milhões de pessoas, que representam 24,1% do total da população ocupada no país.
+
+Nesta análise,  o Ipea utiliza dados da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua do Instituto Brasileiro de Geografia e Estatística (IBGE). O Instituto esclarece que não existem dados oficiais de quantas pessoas no Brasil trabalham remotamente.
+
+Como critério foi considerado, por exemplo, se os trabalhadores possuem ou não condições de realizar as tarefas em teletrabalho e se há fatores na realização do trabalho de forma remota que podem aumentar a produtividade.
+
+A Treina Aí surgiu para que o processo de capacitação de novos colaboradores dure o menor tempo possível, diminua custos para empresa, mantenha a qualidade do aprendizado afim de que no final do processo aquele novo empregado adquira independência e confiança para executar as tarefas propostas pela organização e talvez entre de forma inovadora para contratações aonde as ofertas de vagas de empregos sejam exclusivamente trabalhos remotos.
 
 
 ## Problema
