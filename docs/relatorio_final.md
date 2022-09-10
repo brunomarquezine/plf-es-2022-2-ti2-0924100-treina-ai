@@ -86,32 +86,6 @@ A justificativa para a ideia inovadora da Treina Aí, deu-se pela necessidade de
 # Participantes do processo
 ![Diagrama em branco (8)](https://user-images.githubusercontent.com/81266506/189500098-a40bc52d-2b2b-48fa-8b3a-f1241e7de550.png)
 
-**Administrador:** O administrador do software terá as tarefas de:
-
-*	Cadastrar os usuários que utilizarão a plataforma 
-
-*	Disponibilizar os materiais que serão usados
-
-*	Certificar que os usuários estão assistindo as aulas 
-
-*	Oferecer suporte para os usuários 
-
-*	Aplicar testes para verificar o desenvolvimento dos usuários 
-
-*	Aprovar ou reprovar os usuários 
-
-**Usuário/Aprendiz:** Os usuários terão as seguintes tarefas:
-
-*	Logar na plataforma indicada
-
-*	Assistir ao conteúdo disponível
-
-*	Confirmar que o conteúdo foi consumido 
-
-*	Realizar os testes disponibilizados pelo administrador 
-
-*	Solicitar suporte ao administrador quando necessário 
-
 
 ## 3. Modelagem do processo de negócio
 
