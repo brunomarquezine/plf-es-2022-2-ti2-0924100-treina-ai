@@ -129,16 +129,17 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 - Acesso Administrador
+### 3.3.1 Processo 1 - Cadastro de novo usuário
 Processo do administrador que fará o registro do estagiário e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
-![fluxograma correto](https://user-images.githubusercontent.com/102169915/187449642-d6b12720-ae30-44c5-820b-dcb68b0e24ce.png)
+![Cadastro usuario correto](https://user-images.githubusercontent.com/102169915/189491255-b7a8688f-cf0b-4939-9d83-84a4f9c8bcad.png)
 
 
-### 3.3.2 Processo 2 – Acesso Usuário
+
+### 3.3.2 Processo 2 – Login 
 Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina aí!. Nele o usuário/estagiário tem que fazer login na plataforma e seguir a trilha que o admin preparou. Ao final, o contratado terá que realizar um teste para provar se está apto a exercer o cargo.
 
-![Fluxograma 2](https://user-images.githubusercontent.com/102169915/187449656-a858a9cf-d0aa-4ff0-8086-a61e870e01e8.png)
+![Modelo BPMN Login geral](https://user-images.githubusercontent.com/102169915/189491286-495a0cc2-212f-4f1a-88d8-83782779b135.png)
 
 
 
