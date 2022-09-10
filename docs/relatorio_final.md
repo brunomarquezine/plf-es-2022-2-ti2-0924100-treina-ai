@@ -75,7 +75,7 @@ Como objetivos específicos temos:
 
 O projeto consiste em um novo modo de organizar e facilitar o aprendizado de novos colaboradores através de treinamento em processos a partir do momento em que ocorre um novo ingresso na organização. Dessa forma, quando uma empresa contrata um novo profissional, não é necessário demandar tempo de terceiros já que o processo será todo automatizado e independente em relação ao aprendizado. 
 
-A ideia inovadora da Treina Aí, surgiu pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
+A justificativa para a ideia inovadora da Treina Aí, deu-se pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
 
 # Participantes do processo
 
