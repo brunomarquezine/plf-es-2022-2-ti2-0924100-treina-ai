@@ -78,6 +78,7 @@ O projeto consiste em um novo modo de organizar e facilitar o aprendizado de nov
 A justificativa para a ideia inovadora da Treina Aí, deu-se pela necessidade de economizar tempo e dinheiro com treinamentos, otimizando todo o processo através da tecnologia.
 
 # Participantes do processo
+![Diagrama em branco (6)](https://user-images.githubusercontent.com/81266506/189499154-10170045-bce0-4657-b2ce-8a27a7307f36.png)
 
 **Administrador:** O administrador do software terá as tarefas de:
 
