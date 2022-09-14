@@ -134,6 +134,17 @@ Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos.
 
 ![Diagrama em branco (7)](https://user-images.githubusercontent.com/81266506/189499899-52f92f74-73fc-4d67-9041-a0a19b0fec58.png)
 
+### 3.3.7 Processo 7 - Realização de Testes
+Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
+![Realização de testes ](https://user-images.githubusercontent.com/103525330/190030094-cb473f6a-65c0-4be9-b713-63b3af861541.jpg)
+
+### 3.3.8 Processo 8 - Aplicação e Criação de Testes
+Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
+![Criação e aplicação de testes](https://user-images.githubusercontent.com/103525330/190030105-761d8eef-2b06-40e4-b8dc-e92ccb2733c6.jpg)
+
+
+
+
 
 ## 4. Projeto da Solução
 
