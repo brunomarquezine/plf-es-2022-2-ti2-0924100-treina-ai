@@ -142,6 +142,11 @@ Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos.
 Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
 ![Criação e aplicação de testes](https://user-images.githubusercontent.com/103525330/190030105-761d8eef-2b06-40e4-b8dc-e92ccb2733c6.jpg)
 
+### 3.3.9 Processo - Upload de Tutoriais
+Processo para realizar o Upload de Novos Tutoriais.
+![Processo de Upload de Tutoriais](https://user-images.githubusercontent.com/86814212/190228014-5bfce8f3-cc9f-4218-806e-8ce7af5c41cd.png)
+
+
 
 
 
