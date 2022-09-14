@@ -124,6 +124,11 @@ Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina a�
 
 ![Blank diagram](https://user-images.githubusercontent.com/102169915/189498890-a0f8b33f-e9e7-4826-8c68-ef428a170b7f.png)
 
+### 3.3.3 Processo 3 – Criação de Módulos 
+Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o usuário tem que fazer login na plataforma e criar a trilha de aprendizado e atrelar a um usuário.
+
+![Blank diagram](https://user-images.githubusercontent.com/104038353/190250708-fc6f1d5e-bcc6-4854-8864-b2111faef984.jpeg
+
 ### 3.3.5 Processo 5 - Acesso aos Módulos (Aprendiz)
 Processo para o usuário aprendiz acessar a plataforma.
 
