@@ -121,7 +121,7 @@ Processo do administrador que fará o registro do estagiário e colocar os mater
 ### 3.3.2 Processo 2 – Login 
 Processo do Usuário para trilharlogar a plataforma Treina aí!.
 
-![Login BPMN]([https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png))
+![Login BPMN]([[https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png)](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/master/docs/imagens/Cadastro%20de%20Aprendiz.png))
 
 ### 3.3.3 Processo 3 – Criação de Módulos 
 Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o usuário tem que fazer login na plataforma e criar a trilha de aprendizado e atrelar a um usuário.
