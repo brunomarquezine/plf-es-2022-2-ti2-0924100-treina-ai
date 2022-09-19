@@ -119,9 +119,9 @@ Processo do administrador que fará o registro do estagiário e colocar os mater
 
 
 ### 3.3.2 Processo 2 – Login 
-Processo do Usuário para trilhar seu aprendizado dentro da plataforma Treina aí!. Nele o usuário/estagiário tem que fazer login na plataforma e seguir a trilha que o admin preparou. Ao final, o contratado terá que realizar um teste para provar se está apto a exercer o cargo.
+Processo do Usuário para trilharlogar a plataforma Treina aí!.
 
-![Blank diagram](https://user-images.githubusercontent.com/102169915/189498890-a0f8b33f-e9e7-4826-8c68-ef428a170b7f.png)
+![Blank diagram](docs/imagens/Realização do Login.png)
 
 ### 3.3.3 Processo 3 – Criação de Módulos 
 Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o usuário tem que fazer login na plataforma e criar a trilha de aprendizado e atrelar a um usuário.
