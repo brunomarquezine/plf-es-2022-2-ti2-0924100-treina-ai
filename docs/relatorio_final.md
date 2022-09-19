@@ -111,17 +111,19 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 ## 3.3. Modelagem dos Processos
 
 ### 3.3.1 Processo 1 - Cadastro(Administrador)
-Processo do administrador que fará o registro do estagiário e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
+Processo do administrador que fará o registro do aprendz e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
 ![BPMN 2 0 Example (9)](https://user-images.githubusercontent.com/102169915/190935124-5a67ec2f-db7c-4570-a41f-06dd518d150c.png)
 
+### 3.3.2 Processo 2 - Cadastro(Aprendiz)
+Processo de cadastro que o Aprendiz irá realizar na plataforma.
 
+![Cadastro Aprendiz BPMN](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png)
 
+### 3.3.3 Processo 3 – Login 
+Processo do Usuário para logar na plataforma Treina aí!.
 
-### 3.3.2 Processo 2 – Login 
-Processo do Usuário para trilharlogar a plataforma Treina aí!.
-
-![Login BPMN]([[https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png)](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/master/docs/imagens/Cadastro%20de%20Aprendiz.png))
+![Login BPMN](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/7f1c12ba63f5823d0dba2741486d3d84727dabf2/docs/imagens/Realiza%C3%A7%C3%A3o%20do%20Login.png)
 
 ### 3.3.3 Processo 3 – Criação de Módulos 
 Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o usuário tem que fazer login na plataforma e criar a trilha de aprendizado e atrelar a um usuário.
