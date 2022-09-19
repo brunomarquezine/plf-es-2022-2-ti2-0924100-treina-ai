@@ -110,10 +110,11 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 - Login(Administrador)
+### 3.3.1 Processo 1 - Cadastro(Administrador)
 Processo do administrador que fará o registro do estagiário e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
-![login (adm)](https://user-images.githubusercontent.com/102169915/190932119-1a10d53b-ee51-4e74-ab9e-4687f1093d1e.png)
+![BPMN 2 0 Example (9)](https://user-images.githubusercontent.com/102169915/190935124-5a67ec2f-db7c-4570-a41f-06dd518d150c.png)
+
 
 
 
