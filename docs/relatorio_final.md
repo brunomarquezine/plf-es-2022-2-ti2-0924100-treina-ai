@@ -110,12 +110,12 @@ Logo, o maior objetivo do trabalho é elaborar uma plataforma de treinamento con
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 - Cadastro(Administrador)
+### 3.3.1 Processo 1 - Cadastro de Administrador
 Processo do administrador que fará o registro do aprendz e colocar os materiais didaticos para o usuário seguir de acordo com as necessidades da empresa.
 
 ![BPMN 2 0 Example (9)](https://user-images.githubusercontent.com/102169915/190935124-5a67ec2f-db7c-4570-a41f-06dd518d150c.png)
 
-### 3.3.2 Processo 2 - Cadastro(Aprendiz)
+### 3.3.2 Processo 2 - Cadastro de Aprendiz
 Processo de cadastro que o Aprendiz irá realizar na plataforma.
 
 ![Cadastro Aprendiz BPMN](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/a6fa1b4d5a29fb348074a90fe4b0b4dc355d343e/docs/imagens/Cadastro%20de%20Aprendiz.png)
