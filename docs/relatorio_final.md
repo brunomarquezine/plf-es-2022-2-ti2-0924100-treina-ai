@@ -150,7 +150,7 @@ Processo para o usuário aprendiz acessar a plataforma.
 ### 3.3.6 Processo 6 - Visualização de Tutoriais
 Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
 
-![Diagrama em branco (9)](https://user-images.githubusercontent.com/81266506/191124941-f511caf8-7009-4c0b-aec6-dd60019c5464.png)
+![Diagrama em branco (10)](https://user-images.githubusercontent.com/81266506/191125142-e37a552a-d51f-4141-9ec2-2534c0af0159.png)
 
 ### 3.3.7 Processo 7 - Realização de Testes
 Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
