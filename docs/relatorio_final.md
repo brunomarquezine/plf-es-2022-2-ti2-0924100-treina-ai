@@ -137,30 +137,30 @@ Processo do Usuário para logar na plataforma Treina aí!.
 
 ![Login BPMN](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/7f1c12ba63f5823d0dba2741486d3d84727dabf2/docs/imagens/Realiza%C3%A7%C3%A3o%20do%20Login.png)
 
-### 3.3.3 Processo 4 – Criação de Módulos 
+### 3.3.4 Processo 4 - Upload de Tutoriais
+Processo para realizar o Upload de Novos Tutoriais.
+![uploadDeTutoriais](https://user-images.githubusercontent.com/86814212/191604789-df02f545-2564-4b1a-a04f-1fb9dae56ea1.jpeg)
+
+### 3.3.5 Processo 5 – Criação de Módulos 
 Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o Administrador cria as sessões para novos colaboradores e cria uma área para upload dos materiais.
 
 ![Blank diagram](https://user-images.githubusercontent.com/104038353/191589863-b19241c2-5a9b-4542-806d-d0e7bcf7e1e6.jpeg)
 
-### 3.3.5 Processo 5 - Acesso aos Módulos (Aprendiz)
+
+### 3.3.6 Processo 6 - Acesso aos Módulos (Aprendiz)
 Processo para o usuário aprendiz acessar a plataforma.
 
 ![Blank diagram]([https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/master/docs/imagens/Fluxograma%20-%20Acesso%20aos%20M%C3%B3dulos%20(Aprendiz).jpeg](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/master/docs/imagens/Cadastro%20de%20Aprendiz.png))
 
-### 3.3.6 Processo 6 - Visualização de Tutoriais
+### 3.3.7 Processo 7 - Visualização de Tutoriais
 Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
 
 ![Diagrama em branco (12)](https://user-images.githubusercontent.com/81266506/191125815-3d3b1306-2001-4c18-9a4f-07d31f0903b9.png)
 
 
-### 3.3.7 Processo 7  - Seleção e Criação de provas
+### 3.3.8 Processo 8  - Seleção e Criação de provas
 Processo para o Aprendiz realizar provas.
 ![Criação e realização de testes (2)](https://user-images.githubusercontent.com/103525330/191575215-1cdbf2c8-ef50-4826-b3a9-95b6d0378b83.png)
-
-
-### 3.3.8 Processo8 - Upload de Tutoriais
-Processo para realizar o Upload de Novos Tutoriais.
-![Processo de Upload de Tutoriais](https://user-images.githubusercontent.com/86814212/190228014-5bfce8f3-cc9f-4218-806e-8ce7af5c41cd.png)
 
 
 
