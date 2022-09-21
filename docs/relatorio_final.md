@@ -15,7 +15,7 @@
 ---
 
 # Professores:
-* **Cristiano Geraldo Teixeira Silva**
+* **Cristiano Neves Rodrigues**
 
 * **Felipe Augusto Lima Reis**
 
@@ -158,8 +158,8 @@ Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos.
 ![Diagrama em branco (12)](https://user-images.githubusercontent.com/81266506/191125815-3d3b1306-2001-4c18-9a4f-07d31f0903b9.png)
 
 
-### 3.3.8 Processo 8  - Seleção e Criação de provas
-Processo para o Aprendiz realizar provas.
+### 3.3.8 Processo 8  - Seleção e Realização de provas
+Este processo demonstra como será a seleção e a realização das provas que irão informar se o aprendiz está apto ou não para terminar o treinamento daquele módulo.
 ![Criação e realização de testes](https://user-images.githubusercontent.com/103525330/191606275-f28ac85e-9b9d-4db8-82cf-8eb4f007def9.jpeg)
 
 
