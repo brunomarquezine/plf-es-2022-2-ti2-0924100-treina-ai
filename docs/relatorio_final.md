@@ -112,7 +112,7 @@ A plataforma será estruturada conforme modelagem sendo composta pelos seguintes
 1 - Cadastro de Administrador;
 2 - Cadastro de Aprendiz;
 3 - Login;
-4 - Upload de Tutoriais;
+4 - Criação e Atualização de Tutoriais;
 5 - Criação de Módulos;
 6 - Acesso aos Módulos (Aprendiz);
 7 - Visualização de Tutoriais;
@@ -137,9 +137,10 @@ Processo do Usuário para logar na plataforma Treina aí!.
 
 ![Login BPMN](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-treina-ai/blob/7f1c12ba63f5823d0dba2741486d3d84727dabf2/docs/imagens/Realiza%C3%A7%C3%A3o%20do%20Login.png)
 
-### 3.3.4 Processo 4 - Upload de Tutoriais
-Processo para realizar o Upload de Novos Tutoriais.
-![uploadDeTutoriais](https://user-images.githubusercontent.com/86814212/191604789-df02f545-2564-4b1a-a04f-1fb9dae56ea1.jpeg)
+### 3.3.4 Processo 4 - Criação e Atualização de Tutoriais
+Processo para realizar a Criação e Atualização de Tutoriais.
+![Criação e Atualização de Tutoriais](https://user-images.githubusercontent.com/86814212/191610434-86a05625-cb3d-4584-9030-79a1c178bb0b.jpeg)
+
 
 ### 3.3.5 Processo 5 – Criação de Módulos 
 Processo do Usuário Administrador para criar o os Módulos e a Trilha de Aprendizado dentro da plataforma Treina aí!. Neste processo o Administrador cria as sessões para novos colaboradores e cria uma área para upload dos materiais.
