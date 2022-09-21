@@ -160,7 +160,7 @@ Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos.
 
 ### 3.3.8 Processo 8  - Seleção e Criação de provas
 Processo para o Aprendiz realizar provas.
-![Criação e realização de testes (2)](https://user-images.githubusercontent.com/103525330/191575215-1cdbf2c8-ef50-4826-b3a9-95b6d0378b83.png)
+![Criação e realização de testes](https://user-images.githubusercontent.com/103525330/191606275-f28ac85e-9b9d-4db8-82cf-8eb4f007def9.jpeg)
 
 
 
