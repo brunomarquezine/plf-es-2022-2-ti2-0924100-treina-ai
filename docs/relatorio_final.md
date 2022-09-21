@@ -152,15 +152,13 @@ Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos.
 
 ![Diagrama em branco (12)](https://user-images.githubusercontent.com/81266506/191125815-3d3b1306-2001-4c18-9a4f-07d31f0903b9.png)
 
-### 3.3.7 Processo 7 - Realização de Testes
-Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
-![Realização de testes ](https://user-images.githubusercontent.com/103525330/190030094-cb473f6a-65c0-4be9-b713-63b3af861541.jpg)
 
-### 3.3.8 Processo 8 - Aplicação e Criação de Testes
-Processo para visualizar os tutorias disponibilizados nos módulos desbloquedos. 
-![Criação e aplicação de testes](https://user-images.githubusercontent.com/103525330/190030105-761d8eef-2b06-40e4-b8dc-e92ccb2733c6.jpg)
+### 3.3.7 Processo 7  - Seleção e Criação de provas
+Processo para o Aprendiz realizar provas.
+![Criação e realização de testes (2)](https://user-images.githubusercontent.com/103525330/191575215-1cdbf2c8-ef50-4826-b3a9-95b6d0378b83.png)
 
-### 3.3.9 Processo - Upload de Tutoriais
+
+### 3.3.8 Processo8 - Upload de Tutoriais
 Processo para realizar o Upload de Novos Tutoriais.
 ![Processo de Upload de Tutoriais](https://user-images.githubusercontent.com/86814212/190228014-5bfce8f3-cc9f-4218-806e-8ce7af5c41cd.png)
 
