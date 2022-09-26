@@ -209,6 +209,21 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Testes |Área de texto, Caixa de texto,Arquivo, Múltipla escolha  |Marcar mais de uma alternativa |  |
 
+**Processo 6 - Visualização de Tutoriais**
+
+**Seleção de Módulo**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Listagem de Módulos | Link | Cadastro Realizado |  |
+| Escolher Módulo |  Seleção Única  |  Autorização do Administrador  |  |
+
+**Seleção de Tutorial**
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Listagem de Tutoriais | Link | Autorização do Administrador |   |
+| Escolher Tutorial | Arquivo | Aula desbloqueada |   |
+
 
 ### 4.2. Tecnologias
 
